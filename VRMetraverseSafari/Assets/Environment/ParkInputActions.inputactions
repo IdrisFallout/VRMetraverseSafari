@@ -1,0 +1,34 @@
+{
+    "name": "ParkInputActions",
+    "maps": [
+        {
+            "name": "Default",
+            "id": "467b98ac-5e0f-48f6-9327-50ab929534af",
+            "actions": [
+                {
+                    "name": "EnterVehicle",
+                    "type": "Button",
+                    "id": "537e23d9-074a-4bc3-a7e7-5bd52cae79d2",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "a54079d7-93b3-4823-9bac-6216a577d4e2",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "EnterVehicle",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
